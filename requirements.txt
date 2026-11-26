@@ -1,0 +1,19 @@
+# Core LLM + LangChain ecosystem
+LangChain
+LangChain-Core
+LangChain-community
+LangChain-openai
+streamlit
+
+#tavily search tool
+tavily-python
+
+#web scraping
+beautifulsoup4
+readability-lxml
+trafilature
+requests
+lxml
+
+#environment variables
+python-dotenv
