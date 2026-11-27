@@ -17,3 +17,6 @@ lxml
 
 #environment variables
 python-dotenv
+
+#Loggin or debugging
+rich
